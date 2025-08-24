@@ -19,7 +19,7 @@ Terminal Project Runner v1.0.0
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/yourusername/limebox.git
+git clone https://github.com/tgkiddo666/limebox.git
 cd limebox
 bash setup.sh
 ```

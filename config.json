@@ -1,0 +1,11 @@
+{
+  "projects": {},
+  "settings": {
+    "theme": "lime",
+    "auto_install_deps": true,
+    "default_expose": false,
+    "log_level": "info"
+  },
+  "last_updated": "2024-01-15T00:00:00.000Z",
+  "version": "1.0.0"
+}
